@@ -10,9 +10,11 @@
     <a href="#installation">Installation</a> 
 </p>
 
+<!--
 <h4 align="center">
    📢 project under development 📢 
 </h4>
+-->
 
 # About
 <p>
